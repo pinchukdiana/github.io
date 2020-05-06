@@ -4,6 +4,8 @@ For now (spring 2020) I counted > 25 public speeches at my stracking spreadsheet
 
 _I'm not posting slides older than 2017 as they look veery outdated right now 🙈_
 
+_Also, checking my [Medium page](https://medium.com/@pinchuk.diana) would be useful as some of the speeches were converted into articles_
+
 <img src="https://raw.githubusercontent.com/pinchukdiana/pinchukdiana.github.io/master/images/speaking.jpg" height="400"/>
 
 | **#** |**Topic** |**Conference**|**Slides** |**Video** |  
