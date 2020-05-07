@@ -1,10 +1,9 @@
 # Conference talks 
-_This table gathering al the unique speeches at the biggest conferences I've been speaking at, as some of the speeches were repeated numerous times at different meetups. 
-For now (spring 2020) I counted > 25 public speeches at my stracking spreadsheet._
 
-_I'm not posting slides older than 2017 as they look veery outdated right now 🙈_
+_This table lists all the speeches I’ve given at multiple conferences. I spoke at the small local meetups and in front of 1000+ attendees at big global events. As of Spring 2020, I gave over 25 public speeches._
 
-_Also, checking my [Medium page](https://medium.com/@pinchuk.diana) would be useful as some of the speeches were converted into articles_
+_I didn’t post slides older than 2017, as they are outdated by now 🙈_
+_Also, check my [Medium page](https://medium.com/@pinchuk.diana). I converted some of the presentations into blog posts._
 
 <img src="https://raw.githubusercontent.com/pinchukdiana/pinchukdiana.github.io/master/images/speaking.jpg" height="400"/>
 
