@@ -1,3 +1,7 @@
-# pinchukdiana.github.io
-_Personal website and useful stuff_
-_Nothing here yet, will be updated later_
+## pinchukdiana.github.io
+_Personal website and contacts_
+
+### Idea and design stolen from https://xotabu4.github.io/, thanks Sasha!
+
+### Start locally:
+```bundle exec jekyll serve```
