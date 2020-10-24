@@ -1,8 +1,3 @@
----
-permalink: /presentations.html
-layout: presentations
----
-
 # Conference talks 
 
 _This table lists all the speeches I’ve given at multiple conferences. I spoke at the small local meetups and in front of 1000+ attendees at big global events. As of Spring 2020, I gave over 25 public speeches._
