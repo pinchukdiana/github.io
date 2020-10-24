@@ -19,7 +19,8 @@ body {
 .text-vertical-center {
     display: table-cell;
     text-align: center;
-    vertical-align: middle;
+    vertical-align: bottom;
+    padding-bottom: 30px;
 }
 
 .text-vertical-center h1 {
@@ -45,6 +46,7 @@ h3>strong {
     border-radius: 0;
     color: #fff;
     background-color: rgba(0,0,0,0.4);
+    border: 1px solid white;
 }
 
 .btn-dark:hover,
