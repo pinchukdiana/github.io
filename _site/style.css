@@ -189,7 +189,7 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .masthead {
@@ -306,7 +306,7 @@ nav a {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 30px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: #eee;
